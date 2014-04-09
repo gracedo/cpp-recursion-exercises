@@ -1,4 +1,4 @@
-Cpp-recursion-exercises
+C++ recursion exercises
 =======================
 
 Recursive exercises, written in C++
